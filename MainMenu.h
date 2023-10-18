@@ -3,6 +3,7 @@
 #define GAME_H_
 #include "Board.h"
 #include <time.h>
+
 class Game {
 protected:
 	Board* m_board;

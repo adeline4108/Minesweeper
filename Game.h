@@ -3,8 +3,8 @@
 #ifndef GAME_H_
 #define GAME_H_
 #include "Board.h"
-#include "ScoreKeeper.h"
 #include <time.h>
+
 class Game {
 protected:
 	Board* m_board;

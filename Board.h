@@ -3,7 +3,6 @@
 #include <vector>
 #ifndef BOARD_H_
 #define BOARD_H_
-#include <vector>
 
 class Board {
 private:
