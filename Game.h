@@ -1,3 +1,9 @@
+/** Author: Alina Grama
+	Gruppa: DJ2203*
+	Project name: Minesweeper
+	Year: 2023*
+	*/
+
 #pragma once
 
 #ifndef GAME_H_
